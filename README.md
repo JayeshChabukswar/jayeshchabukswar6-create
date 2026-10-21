@@ -24,6 +24,15 @@ I'm learning cybersecurity step by step, focusing on understanding how systems, 
 
 *Skills are actively developing through study and hands-on practice.*
 
+## Certifications & Learning Achievements
+
+- **TryHackMe — Pre Security Learning Path Completion Certificate**
+  - Completed: 15 June 2026
+  - Course duration: 19 hours 10 minutes
+  - Certificate ID: `THM-FCRQ0GZ6TL`
+
+*This is a learning-path completion certificate, not the paid SEC0 professional certification.*
+
 ## Learning & Practice
 
 - TryHackMe cybersecurity labs
