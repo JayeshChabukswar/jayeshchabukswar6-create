@@ -6,21 +6,23 @@
 
 ## About Me
 
-I'm learning cybersecurity step by step, focusing on understanding how systems, networks, and security tools work. I use hands-on labs and practice exercises to strengthen my technical knowledge.
+I'm learning cybersecurity step by step, focusing on how systems, networks, and security tools work. I use hands-on labs, practice exercises, and revision to build a strong foundation.
 
 - 🔎 Exploring ethical hacking and defensive security
-- 🧪 Practicing through TryHackMe
-- 🌱 Improving my networking, scripting, and security analysis skills
-- 🎯 Goal: Build practical skills for an entry-level cybersecurity role
+- 🧪 Learning through TryHackMe and guided labs
+- 🌱 Developing networking, Linux, scripting, and security analysis skills
+- 🎯 Goal: Build practical skills for an entry-level cybersecurity role, such as Junior SOC Analyst
 
 ## Skills & Tools
 
 - **Networking:** IP addressing, DNS, DHCP, ARP, ports, TCP/UDP, NAT, HTTP/HTTPS
 - **Operating Systems:** Kali Linux and Windows fundamentals
-- **Packet Analysis:** Wireshark and tcpdump basics
+- **Packet Analysis:** Wireshark and tcpdump fundamentals, including basic packet filters
+- **Scanning & Reconnaissance:** Nmap fundamentals and common scan options
 - **Scripting:** Python fundamentals and PowerShell basics
-- **Security Tools:** Burp Suite — beginner-level practice
+- **Web Security:** Burp Suite beginner-level practice
 - **Directory Services:** Active Directory fundamentals, OUs, GPOs, SYSVOL, and introductory Kerberos concepts
+- **Cryptography:** Beginner concepts; currently learning modular arithmetic (modulo) as a foundation
 
 *Skills are actively developing through study and hands-on practice.*
 
@@ -33,39 +35,44 @@ I'm learning cybersecurity step by step, focusing on understanding how systems, 
 
 *This is a learning-path completion certificate, not the paid SEC0 professional certification.*
 
-## Learning & Practice
+## Recent Learning & Practice
 
-- TryHackMe cybersecurity labs
-- Networking and packet-filtering exercises
-- Linux command-line practice
-- Windows and PowerShell exercises
-- Active Directory concepts and revision
-- Introductory SOC concepts, logs, and incident triage
+- **Cryptography basics:** beginning modular arithmetic with small-number examples
+- **Nmap:** reviewing host discovery and scan options
+- **tcpdump:** practicing packet counts and basic source-port/protocol filtering
+- **Networking:** revising protocols, ports, and how requests travel
+- **Linux/Kali Linux:** command-line practice
+- **Windows & PowerShell:** basic commands and scripting concepts
+- **Active Directory:** revising OUs, Group Policy, SYSVOL, Kerberos, trees, forests, and trusts
+- **SOC fundamentals:** introductory logs, triage, and defensive security concepts
 
-## Projects
+## Projects & Documentation
 
 | Project | Status |
 |---|---|
 | Cybersecurity Learning Roadmap | In progress |
-| Network Traffic Analysis | Planned |
-| Python Log Analyzer | Planned |
 | Security Notes & Command Reference | In progress |
+| Network Traffic Analysis write-up | Planned |
+| Python Log Analyzer | Planned |
 | Incident Triage Write-up | Planned |
 | Cybersecurity Home Lab Documentation | Planned |
+
+*Planned projects are not yet completed; this section will be updated as I build and document them.*
 
 ## Current Goals
 
 - Strengthen networking and subnetting fundamentals
-- Practice Wireshark and tcpdump filters on lab traffic
+- Practice Wireshark and tcpdump filters using lab traffic
 - Improve Python and PowerShell scripting
-- Practice Windows security logs and Active Directory
-- Build documented, safe, hands-on cybersecurity projects
+- Build confidence with Nmap and Windows security logs
+- Continue learning Active Directory and beginner cryptography
+- Create safe, hands-on projects and document what I learn
 
-## My Approach
+## My Learning Method
 
 **Learn → Practice → Document → Revise → Build**
 
-I believe in consistent learning, practical experience, and honest documentation of progress.
+I aim to document my progress honestly and consistently, without presenting unfinished learning or planned projects as completed work.
 
 ---
 
