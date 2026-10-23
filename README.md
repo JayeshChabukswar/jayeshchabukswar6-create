@@ -1,64 +1,59 @@
-<div align="center">
+# Hi, I'm a Cybersecurity Student 👋
 
-# `root@joyboy:~#` 
+🎓 **BCA Cyber Security Student**  
+🔐 Aspiring Ethical Hacker  
+💻 Building practical cybersecurity skills through hands-on learning.
 
-### CYBERSECURITY STUDENT • BLUE TEAM MINDS​ET • ETHICAL HACKING
+## About Me
 
-**Learn. Practise. Document. Repeat.**
+I'm learning cybersecurity step by step, focusing on how systems, networks, and security tools work. I use hands-on labs, practice exercises, and revision to build a strong foundation.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Learning%20in%20Public-111827?style=for-the-badge&logo=github)](https://github.com/jayeshchabukswar6-create)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Hands--on%20Learning-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Joyboy.)
+- 🔎 Exploring ethical hacking and defensive security
+- 🧪 Learning through TryHackMe and guided labs
+- 🌱 Developing networking, Linux, scripting, and security analysis skills
+- 🎯 Goal: Build practical skills for an entry-level cybersecurity role, such as Junior SOC Analyst
 
-</div>
+## Skills & Tools
 
----
+- **Networking:** IP addressing, DNS, DHCP, ARP, ports, TCP/UDP, NAT, HTTP/HTTPS
+- **Operating Systems:** Kali Linux and Windows fundamentals
+- **Packet Analysis:** Wireshark and tcpdump fundamentals, including basic packet filters
+- **Scanning & Reconnaissance:** Nmap fundamentals, host discovery, and common scan options
+- **Scripting:** Python fundamentals and PowerShell basics
+- **Web Security:** Burp Suite beginner-level practice
+- **Directory Services:** Active Directory fundamentals, OUs, GPOs, SYSVOL, and introductory Kerberos concepts
+- **Cryptography:** Completed TryHackMe's Public Key Cryptography Basics room; learning modulo and core cryptography concepts
+- **Hashing & Integrity:** Completed TryHackMe's Hashing Basics room; learning hash identification, Base64 vs. hashing, SHA-256, HMAC, and password-hash concepts
 
-## `whoami`
+*These are developing skills and learning topics, not claims of professional-level proficiency.*
 
-I'm a **BCA Cyber Security student at Jain University, Bengaluru**, building cybersecurity foundations through guided labs, practice, and revision.
+## Certifications & Learning Achievements
 
-- 🎯 **Goal:** Prepare for an entry-level cybersecurity role, especially Junior SOC Analyst
-- 🧪 **Learning:** TryHackMe, networking, Linux, Windows, cryptography, and security fundamentals
-- 🧭 **Approach:** Focus on understanding concepts and practising safely—not just collecting certificates
-- ⚓ **Mindset:** Persistent learner, one skill at a time
+- **TryHackMe — Pre Security Learning Path Completion Certificate**
+  - Completed: 15 June 2026
+  - Course duration: 19 hours 10 minutes
+  - Certificate ID: `THM-FCRQ0GZ6TL`
+  - [View certificate PDF](https://github.com/jayeshchabukswar6-create/cybersecurity.path/blob/main/certificates/THM-FCRQ0GZ6TL.pdf)
 
-## `./skills-and-tools`
+- **Cisco Networking Academy — Introduction to Cybersecurity**
+  - Completed: 18 August 2026
+  - [View certificate PDF](https://github.com/jayeshchabukswar6-create/cybersecurity.path/blob/main/certificates/Introduction_to_Cybersecurity_certificate_jayeshchabukswar6-gmail-com_2cd14891-581b-4a1a-af68-ac4be26be15f.pdf)
 
-| Area | Current learning |
-|---|---|
-| Networking | IP addressing, DNS, DHCP, ARP, ports, TCP/UDP, NAT, HTTP/HTTPS |
-| Linux | Kali Linux and command-line fundamentals |
-| Packet analysis | Wireshark and tcpdump basics, filters, packet counts |
-| Reconnaissance | Nmap host discovery and common scan options |
-| Windows | Windows fundamentals and PowerShell basics |
-| Directory services | Active Directory, OUs, GPOs, SYSVOL, introductory Kerberos |
-| Scripting | Python fundamentals and basic PowerShell |
-| Web security | Beginner Burp Suite practice in authorised labs |
-| Cryptography | Completed TryHackMe Public Key Cryptography Basics; revising modulo and core concepts |
-| Hashing | Completed TryHackMe Hashing Basics; learning hash identification, Base64 vs. hashing, SHA-256, HMAC, and password-hash concepts |
+*The TryHackMe item is a learning-path completion certificate, not the paid SEC0 professional certification.*
 
-<sub>These are developing skills and current learning areas, not claims of professional-level proficiency.</sub>
+## Recent Learning & Practice
 
-## `recent-learning.log`
+- **Hashing Basics (TryHackMe):** completed the room; studied hash types and identification, Hashcat modes, NTLM and bcrypt concepts, Linux password-hash storage in `/etc/shadow`, Base64 encoding vs. hashing, SHA-256 file-integrity checks, and HMAC
+- **Public Key Cryptography Basics (TryHackMe):** completed the room; studied introductory public-key cryptography concepts and practised modulo examples
+- **Nmap:** reviewing host discovery and common scan options
+- **tcpdump:** practised basic source-port/protocol filtering and packet counts
+- **Networking:** revising protocols, ports, and how requests travel
+- **Linux/Kali Linux:** command-line practice
+- **Windows & PowerShell:** basic commands and scripting concepts
+- **Active Directory:** revising OUs, Group Policy, SYSVOL, Kerberos, trees, forests, and trusts
+- **SOC fundamentals:** introductory logs, triage, and defensive security concepts
 
-```text
-[COMPLETED] TryHackMe — Hashing Basics
-[COMPLETED] TryHackMe — Public Key Cryptography Basics
-[PRACTISING] tcpdump filters and packet counts
-[REVISING]    Nmap host discovery and scan options
-[REVISING]    Networking protocols and common ports
-[LEARNING]    Linux, Windows/PowerShell, Active Directory, SOC fundamentals
-```
-
-## `certificates/`
-
-- **TryHackMe — Pre Security Learning Path Completion Certificate**  
-  Completed: 15 June 2026 · [View PDF](https://github.com/jayeshchabukswar6-create/cybersecurity.path/blob/main/certificates/THM-FCRQ0GZ6TL.pdf)
-
-- **Cisco Networking Academy — Introduction to Cybersecurity**  
-  Completed: 18 August 2026 · [View PDF](https://github.com/jayeshchabukswar6-create/cybersecurity.path/blob/main/certificates/Introduction_to_Cybersecurity_certificate_jayeshchabukswar6-gmail-com_2cd14891-581b-4a1a-af68-ac4be26be15f.pdf)
-
-## `projects/`
+## Projects & Documentation
 
 | Project | Status |
 |---|---|
@@ -69,31 +64,25 @@ I'm a **BCA Cyber Security student at Jain University, Bengaluru**, building cyb
 | Incident Triage Write-up | Planned |
 | Cybersecurity Home Lab Documentation | Planned |
 
-> Planned projects are not yet completed. I'll add links and findings as I build and document each one.
+*Planned projects are not yet completed; this section will be updated as I build and document them.*
 
-## `next-missions.txt`
+## Current Goals
 
-- [ ] Continue TryHackMe Cyber Security 101
-- [ ] Revise hashing and cryptography fundamentals
-- [ ] Strengthen networking and subnetting
-- [ ] Practise Wireshark and tcpdump with sample traffic
-- [ ] Build Python and PowerShell confidence
-- [ ] Learn more about Windows security logs and SOC investigations
-- [ ] Complete and document a first practical project
+- Continue TryHackMe Cyber Security 101
+- Revise hashing and cryptography concepts so I can explain them clearly
+- Strengthen networking and subnetting fundamentals
+- Practice Wireshark and tcpdump filters using lab traffic
+- Improve Python and PowerShell scripting
+- Build confidence with Nmap and Windows security logs
+- Continue learning Active Directory and SOC fundamentals
+- Create safe, hands-on projects and document what I learn
 
-## `operational-principles`
+## My Learning Method
 
-- Only test systems I own or have explicit permission to assess.
-- Keep credentials, tokens, and private data out of public repositories.
-- Document what I actually understand and complete.
-- **Learn → Practise → Document → Revise → Build**
+**Learn → Practice → Document → Revise → Build**
+
+I aim to document my progress honestly and consistently, without presenting unfinished learning or planned projects as completed work.
 
 ---
 
-<div align="center">
-
-`[ status: learning_in_progress ]`
-
-*Quiet work. Consistent progress. Skills over hype.*
-
-</div>
+*Learning every day. Building one skill at a time.* 🚀
