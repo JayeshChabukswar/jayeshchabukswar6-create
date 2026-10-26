@@ -1,88 +1,71 @@
-# Hi, I'm a Cybersecurity Student 👋
+# Jayesh | Cybersecurity Student
 
-🎓 **BCA Cyber Security Student**  
-🔐 Aspiring Ethical Hacker  
-💻 Building practical cybersecurity skills through hands-on learning.
+> Learning cybersecurity one practical step at a time. Focused on defensive security, networking, and building toward a **Junior SOC Analyst (L1)** role.
 
-## About Me
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-xbec-212c42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/xbec)
+[![Focus](https://img.shields.io/badge/Focus-SOC%20L1-54a7ff)](#current-focus)
+[![Learning](https://img.shields.io/badge/Status-Learning-ff4d5e)](#current-focus)
 
-I'm learning cybersecurity step by step, focusing on how systems, networks, and security tools work. I use hands-on labs, practice exercises, and revision to build a strong foundation.
+## About
 
-- 🔎 Exploring ethical hacking and defensive security
-- 🧪 Learning through TryHackMe and guided labs
-- 🌱 Developing networking, Linux, scripting, and security analysis skills
-- 🎯 Goal: Build practical skills for an entry-level cybersecurity role, such as Junior SOC Analyst
+- 🎓 BCA Cyber Security student at Jain University, Bengaluru
+- 🛡️ Working toward entry-level SOC Analyst skills while exploring ethical hacking
+- 🧪 Learning through TryHackMe rooms, hands-on practice, and revision
+- 📝 Documenting what I learn and keeping project status honest
 
-## Skills & Tools
+## TryHackMe Progress
+
+Profile: **[xbec [HACKER]](https://tryhackme.com/p/xbec)** · Level 8
+
+| Learning path | Progress shown |
+|---|---:|
+| Pre Security | Completed |
+| Cyber Security 101 | 43% |
+| SOC Level 1 | 2% |
+
+*Progress reflects my profile screenshots from 26 October 2026 and may change as I continue learning.*
+
+## Skills I'm Developing
 
 - **Networking:** IP addressing, DNS, DHCP, ARP, ports, TCP/UDP, NAT, HTTP/HTTPS
-- **Operating Systems:** Kali Linux and Windows fundamentals
-- **Packet Analysis:** Wireshark and tcpdump fundamentals, including basic packet filters
-- **Scanning & Reconnaissance:** Nmap fundamentals, host discovery, and common scan options
-- **Scripting:** Python fundamentals and PowerShell basics
-- **Web Security:** Burp Suite beginner-level practice
-- **Directory Services:** Active Directory fundamentals, OUs, GPOs, SYSVOL, and introductory Kerberos concepts
-- **Cryptography:** Completed TryHackMe's Public Key Cryptography Basics room; learning modulo and core cryptography concepts
-- **Hashing & Integrity:** Completed TryHackMe's Hashing Basics room; learning hash identification, Base64 vs. hashing, SHA-256, HMAC, and password-hash concepts
+- **Linux:** Kali Linux command line and fundamentals
+- **Traffic analysis:** Wireshark and tcpdump basics
+- **Reconnaissance:** Nmap fundamentals and common scan options
+- **Windows:** Windows fundamentals, PowerShell basics, and introductory Active Directory concepts
+- **Web security:** Beginner practice with Burp Suite
+- **Cryptography & hashing:** symmetric/asymmetric encryption concepts, public-key cryptography, hashing basics, and password-hash concepts
+- **Scripting:** Python fundamentals
 
-*These are developing skills and learning topics, not claims of professional-level proficiency.*
+These are learning areas, not claims of professional-level proficiency.
 
-## Certifications & Learning Achievements
+## Certificates
 
-- **TryHackMe — Pre Security Learning Path Completion Certificate**
-  - Completed: 15 June 2026
-  - Course duration: 19 hours 10 minutes
-  - Certificate ID: `THM-FCRQ0GZ6TL`
-  - [View certificate PDF](https://github.com/jayeshchabukswar6-create/cybersecurity.path/blob/main/certificates/THM-FCRQ0GZ6TL.pdf)
+- [TryHackMe — Pre Security completion certificate](https://github.com/JayeshChabukswar/cybersecurity.path/blob/main/certificates/THM-FCRQ0GZ6TL.pdf)
+- [Cisco Networking Academy — Introduction to Cybersecurity](https://github.com/JayeshChabukswar/cybersecurity.path/blob/main/certificates/Introduction_to_Cybersecurity_certificate_jayeshchabukswar6-gmail-com_2cd14891-581b-4a1a-af68-ac4be26be15f.pdf)
 
-- **Cisco Networking Academy — Introduction to Cybersecurity**
-  - Completed: 18 August 2026
-  - [View certificate PDF](https://github.com/jayeshchabukswar6-create/cybersecurity.path/blob/main/certificates/Introduction_to_Cybersecurity_certificate_jayeshchabukswar6-gmail-com_2cd14891-581b-4a1a-af68-ac4be26be15f.pdf)
+## Current Focus
 
-*The TryHackMe item is a learning-path completion certificate, not the paid SEC0 professional certification.*
+- Continue Cyber Security 101 and start building consistency in SOC Level 1
+- Revise networking, hashing, and cryptography fundamentals
+- Practise packet analysis and learn to explain findings clearly
+- Build small projects and document the process
 
-## Recent Learning & Practice
-
-- **Hashing Basics (TryHackMe):** completed the room; studied hash types and identification, Hashcat modes, NTLM and bcrypt concepts, Linux password-hash storage in `/etc/shadow`, Base64 encoding vs. hashing, SHA-256 file-integrity checks, and HMAC
-- **Public Key Cryptography Basics (TryHackMe):** completed the room; studied introductory public-key cryptography concepts and practised modulo examples
-- **Nmap:** reviewing host discovery and common scan options
-- **tcpdump:** practised basic source-port/protocol filtering and packet counts
-- **Networking:** revising protocols, ports, and how requests travel
-- **Linux/Kali Linux:** command-line practice
-- **Windows & PowerShell:** basic commands and scripting concepts
-- **Active Directory:** revising OUs, Group Policy, SYSVOL, Kerberos, trees, forests, and trusts
-- **SOC fundamentals:** introductory logs, triage, and defensive security concepts
-
-## Projects & Documentation
+## Projects
 
 | Project | Status |
 |---|---|
-| Cybersecurity Learning Roadmap | In progress |
-| Security Notes & Command Reference | In progress |
-| Network Traffic Analysis write-up | Planned |
-| Python Log Analyzer | Planned |
-| Incident Triage Write-up | Planned |
-| Cybersecurity Home Lab Documentation | Planned |
+| Cybersecurity learning journal | In progress |
+| Security notes and command reference | In progress |
+| Network traffic analysis write-up | Planned |
+| Python log analyzer | Planned |
+| Incident triage write-up | Planned |
 
-*Planned projects are not yet completed; this section will be updated as I build and document them.*
+## Find Me
 
-## Current Goals
-
-- Continue TryHackMe Cyber Security 101
-- Revise hashing and cryptography concepts so I can explain them clearly
-- Strengthen networking and subnetting fundamentals
-- Practice Wireshark and tcpdump filters using lab traffic
-- Improve Python and PowerShell scripting
-- Build confidence with Nmap and Windows security logs
-- Continue learning Active Directory and SOC fundamentals
-- Create safe, hands-on projects and document what I learn
-
-## My Learning Method
-
-**Learn → Practice → Document → Revise → Build**
-
-I aim to document my progress honestly and consistently, without presenting unfinished learning or planned projects as completed work.
+- TryHackMe: [xbec](https://tryhackme.com/p/xbec)
+- Daily learning record: [cybersecurity.path](https://github.com/JayeshChabukswar/cybersecurity.path)
+- Portfolio website: [jayeshchabukswar6.github.io](https://JayeshChabukswar.github.io/jayeshchabukswar6.github.io/)
 
 ---
 
-*Learning every day. Building one skill at a time.* 🚀
+**Learn → Practise → Document → Revise → Build**
