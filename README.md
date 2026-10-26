@@ -8,7 +8,7 @@
 
 ## Portfolio
 
-**[🌐 View my live cybersecurity portfolio](https://jayeshchabukswar.github.io/jayeshchabukswar6.github.io/)** — a clean portfolio for my learning journey, developing skills, and projects.
+**[🌐 View my live cybersecurity portfolio](https://jayeshchabukswar.github.io/)** — a clean portfolio for my learning journey, developing skills, and projects.
 
 ## About
 
@@ -68,7 +68,7 @@ These are learning areas, not claims of professional-level proficiency.
 
 - TryHackMe: [xbec](https://tryhackme.com/p/xbec)
 - Daily learning record: [cybersecurity.path](https://github.com/JayeshChabukswar/cybersecurity.path)
-- Portfolio website: [jayeshchabukswar6.github.io](https://JayeshChabukswar.github.io/jayeshchabukswar6.github.io/)
+- Portfolio website: [jayeshchabukswar6.github.io](https://jayeshchabukswar.github.io/)
 
 ---
 
