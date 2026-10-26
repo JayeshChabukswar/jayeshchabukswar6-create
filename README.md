@@ -6,6 +6,10 @@
 [![Focus](https://img.shields.io/badge/Focus-SOC%20L1-54a7ff)](#current-focus)
 [![Learning](https://img.shields.io/badge/Status-Learning-ff4d5e)](#current-focus)
 
+## Portfolio
+
+**[🌐 View my live cybersecurity portfolio](https://jayeshchabukswar.github.io/jayeshchabukswar6.github.io/)** — a clean portfolio for my learning journey, developing skills, and projects.
+
 ## About
 
 - 🎓 BCA Cyber Security student at Jain University, Bengaluru
